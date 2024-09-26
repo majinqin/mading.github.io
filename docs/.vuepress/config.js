@@ -15,19 +15,15 @@ export default defineUserConfig({
     navbar: [
       '/',
       {
-        text: 'Article',
+        text: '文章',
         link: '/article/',
       },
       {
-        text: 'Category',
+        text: '框架',
         link: '/category/',
       },
       {
-        text: 'Tag',
-        link: '/tag/',
-      },
-      {
-        text: 'Timeline',
+        text: '时间线',
         link: '/timeline/',
       },
     ],
